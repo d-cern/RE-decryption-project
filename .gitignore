@@ -1,0 +1,6 @@
+src/RE_Encryption_Project/.vs/*
+src/RE_Encryption_Project/Debug/*
+src/RE_Encryption_Project/RE_Encryption_Project/Debug/*
+
+*gitignore*
+!.gitignore
